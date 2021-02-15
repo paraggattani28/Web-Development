@@ -1,0 +1,133 @@
+.menu{
+    margin-bottom: 90px;
+}
+.brandname{
+    text-align: center;
+}   
+.wel{
+    margin-top: 40px;
+    margin-bottom: 40px;
+} 
+.wel hr{
+    height: 0.5px;
+}
+.cafirm hr{
+    height: 0.5px;
+}
+
+.readmore{
+    margin-right: 80px;
+    background-color: orange;
+    color: black;
+    height: 40px;
+    width: 120px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+.readmore:hover{
+    background-color: black;
+    color: orange;
+}
+.firstimg img{
+    height: 120px;
+    width: 300px;
+}
+.secondimg{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.secondimg img{
+     height: 180px;
+    width: 300px;
+}
+.ourservices{
+    margin-top: 40px;
+    background-color: #2ec4b6;
+}
+.ourservices hr{
+    height: 0.5px;
+}
+.box{
+            height: 80px;
+            width: 80px;
+            margin-left:  80px; 
+            background: orange;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+.box:hover{
+            background: black;
+            color: orange; 
+        }
+.box fa-bar-chart fa-3x{
+    margin-left: 130px;
+}
+.why{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.box2{
+            height: 80px;
+            width: 80px;
+            margin-left:  20px; 
+            background: orange;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+.box2:hover{
+            background: black;
+            color: orange; 
+        }
+.box2 fa-bar-chart fa-3x{
+    margin-left: 130px;
+}
+.moreinfo{
+    padding-top: 20px;
+    background-color: black;
+    text-align: center;
+}
+.moreinfo p{
+    text-align: center;
+    padding-bottom: 60px;
+}
+.form{
+    margin-top: -30px;
+}
+.subscribe{
+    margin-right: 80px;
+    background-color: grey;
+    color: white;
+    height: 40px;
+    width: 120px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+.subscribe:hover{
+    background-color: white;
+    color: grey;
+}
+ .box1{
+     margin-top: 20px;
+     margin-left: 120px; 
+            height: 45px;
+            width: 45px;
+            background: grey;
+            text-align: center;
+            padding-top: 10px;
+            transform: rotate(45deg);
+        }
+        .box1 .fa{
+            transform: rotate(-45deg);
+        }
+        .box1:hover{
+            background: black;
+            color: grey;
+        }
